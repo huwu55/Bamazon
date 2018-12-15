@@ -25,4 +25,4 @@ VALUES ('mouse', 'computer accessories', 19.99, 200),
 ('desktop monitor', 'computer accessories', 54.10, 5),
 ('frying pan', 'kitchen', 29.43, 500);
 
-SELECT * FROM products;
+-- SELECT * FROM products;
