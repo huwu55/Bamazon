@@ -1,9 +1,9 @@
 # Bamazon
 
-### Overview
+## Overview
 This is an Amazon-like storefront with MySQL. This app will take in orders from customers and deplete stock from the store's inventory.
 
-### Customer View
+## Customer View
 
 1. Create a MySQL Database called `bamazon`.
 1. Create a Table inside of the database called `products`.
@@ -14,13 +14,13 @@ This is an Amazon-like storefront with MySQL. This app will take in orders from 
     * `price` (cost to customer)
     * `tock_quantity` (how much of the product is available in stores)
 
-#### Run `node bamazonCustomer` to start.
+### Run `node bamazonCustomer` to start.
 
-##### Successfully puchased
+#### Successfully puchased
 
 ![Image of successfully puchased](./images/bamazonCustomer1.png)
 
-##### Invalid inputs
+#### Invalid inputs
 
 * Invalid ID:
 
